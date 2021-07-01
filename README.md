@@ -10,7 +10,7 @@
 
 Estudante de Sistemas de informação pela UFVJM. Usuário de linux de primeira viagem. Nenhuma experiência profissional, apenas alguns projetos pessoais e o fato de tudo que eu faço/tenho sempre dar problema - assim desenvolvi minha teimosia, para fazer as coisas funcionarem quer elas queiram ou não.
 
-Histórico de autodidata: aprendi inglês sozinho, estudando desde pequeno (comecei quando tinha 5-6 anos de idade), 70% do meu conhecimento de C++ aprendi apenas fazendo coisas que achava interessante e lendo documentação/Stack Overflow, também aprendi a jogar P.T.O. 2 sem ajuda aos 10 anos de idade :sunglasses:. Estou acostumado a encontrar problemas e resolvê-los sozinho, mesmo perdendo parte de minha sanidade no processo - God bless Google and Stack Overflow -, o que não significa que eu não saiba trabalhar em grupo. Todos que fizeram projetos e trabalhos da faculdade comigo podem atestar minhas incríveis habilidades de gerência :sunglasses:.
+Histórico de autodidata: aprendi inglês sozinho, estudando desde pequeno (comecei quando tinha por volta de 6 anos de idade), 70% do meu conhecimento de C++ aprendi apenas fazendo coisas que achava interessante e lendo documentação/Stack Overflow, também aprendi a jogar P.T.O. 2 sem ajuda aos 10 anos de idade :sunglasses:. Estou acostumado a encontrar problemas e resolvê-los sozinho, mesmo perdendo parte de minha sanidade no processo - God bless Google and Stack Overflow -, o que não significa que eu não saiba trabalhar em grupo. Todos que fizeram projetos e trabalhos da faculdade comigo podem atestar minhas incríveis habilidades de gerência :sunglasses:.
 
 ## Habilidades
 - C++ (sim, estou aprendendo a usar templates) e Java
