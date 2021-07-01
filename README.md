@@ -25,7 +25,7 @@ Histórico de autodidata: aprendi inglês sozinho, estudando desde pequeno (come
 ## O que estou fazendo agora e planos para o futuro
 - No momento estou aprofundando meus conhecimentos em C++, logo após planejo começar com javascript e entrar no mundo de programação web
 - Como uma "graduação" ou algo do tipo, eu planejo fazer um jogo inteiro em C++ para testar minha habilidade
-- Assim que a pandemia acabar irei fazer uma pesquisa científica sobre "o mundo dos jogos para quem joga e quem não", também fazendo desse meu TCC
+- Assim que a pandemia acabar irei fazer uma pesquisa científica sobre um assunto que tenho interesse (algo qhe já tenho em mente há muito tempo) e talvez fazer disso meu TCC
 - Também quero fazer uns ajustes no Easy downloader...
 
 ## Contato
