@@ -18,13 +18,14 @@ Histórico de autodidata: aprendi inglês sozinho, estudando desde pequeno (come
 - Duas medalhas em concursos de piano (primeiro e segundo lugar) :sunglasses:
 
 ## Projetos dos quais me orgulho
-- Easy downloader, um projeto para a disciplina de IA que usa um agente IA de reconhecimento de padrões para baixar qualquer imagem da internet que seu navegador possa exibir, independente de medidas de segurança.
+- Easy downloader, um projeto para a disciplina de IA que usa um agente IA de reconhecimento de padrões para baixar qualquer imagem da internet que seu navegador possa exibir, independente das medidas de segurança do site.
 - Galery ultra downloader, projeto pessoal que inspirou o Easy downloader, feito para download recursivo em um site específico que contém um número de medidas de segurança contra tal operação. Escrito em C++ com algumas partes em C. Atualmente privado.
-- [Partiu UFVJM](https://web.archive.org/web/20201101020052/https://partiuufvjm.teios.org/) (infelizmente o site não está mais disponível) um site feito como projeto em grupo para disciplina ADM I, com o objetivo de informar pessoas que queiram ingressar na UFVJM. Houve também um evento.
+- Hypercube Simple Graphical Engine, uma simples engine gráfica feita em C++ usando SDL2. Capaz de simples manipulações gráficas 2D.
+- [Partiu UFVJM](https://partiuufvjm.teios.org/) (infelizmente o site não está mais disponível) um site feito como projeto em grupo para disciplina ADM I, com o objetivo de informar pessoas que queiram ingressar na UFVJM. Houve também um evento.
 
 ## O que estou fazendo agora e planos para o futuro
 - No momento estou aprofundando meus conhecimentos em C++, logo após planejo começar com javascript e entrar no mundo de programação web
-- Como uma "graduação" ou algo do tipo, eu planejo fazer um jogo inteiro em C++ para testar minha habilidade
+- Como uma "graduação" ou algo do tipo, eu planejo fazer um jogo inteiro em C++ para testar minha habilidade. Para isso vou expandir minha engine Hypercube.
 - Assim que a pandemia acabar irei fazer uma pesquisa científica sobre um assunto que tenho interesse (algo que já tenho em mente há muito tempo) e talvez fazer disso meu TCC
 - Também quero fazer uns ajustes no Easy downloader...
 
