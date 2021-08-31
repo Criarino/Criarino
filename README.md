@@ -30,5 +30,4 @@ Histórico de autodidata: aprendi inglês sozinho, estudando desde pequeno (come
 - Também quero fazer uns ajustes no Easy downloader...
 
 ## Contato
-- [Facebook](https://www.facebook.com/richard.fernandes.319247)
-- Mas de preferência pelo e-mail: richardfernandes11@yahoo.com.br
+- De preferência pelo e-mail: richardfernandes11@yahoo.com.br
