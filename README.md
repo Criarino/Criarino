@@ -13,7 +13,7 @@ Estudante de Sistemas de informação pela UFVJM. Usuário de linux de primeira 
 Histórico de autodidata: aprendi inglês sozinho, estudando desde pequeno (comecei quando tinha por volta de 6 anos de idade), 70% do meu conhecimento de C++ aprendi apenas fazendo coisas que achava interessante e lendo documentação/Stack Overflow, também aprendi a jogar P.T.O. 2 sem ajuda aos 10 anos de idade :sunglasses:. Estou acostumado a encontrar problemas e resolvê-los sozinho, mesmo perdendo parte de minha sanidade no processo - God bless Google and Stack Overflow -, o que não significa que eu não saiba trabalhar em grupo. Todos que fizeram projetos e trabalhos da faculdade comigo podem atestar minhas incríveis habilidades de gerência :sunglasses:.
 
 ## Habilidades
-- C++ (sim, estou aprendendo a usar templates) e Java
+- C++ (sim, estou aprendendo a usar templates), Java, um pouco de R e SQL
 - Inglês: Pronúncia intermediária, Entendimento (audição) avançado, Leitura e Escrita perfeitas
 - Duas medalhas em concursos de piano (primeiro e segundo lugar) :sunglasses:
 
