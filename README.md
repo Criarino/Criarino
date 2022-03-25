@@ -20,7 +20,7 @@ Histórico de autodidata: aprendi inglês sozinho, estudando desde pequeno (come
 ## Projetos dos quais me orgulho
 - Easy downloader, um projeto para a disciplina de IA que usa um agente IA de reconhecimento de padrões para baixar qualquer imagem da internet que seu navegador possa exibir, independente das medidas de segurança do site.
 - Galery ultra downloader, projeto pessoal que inspirou o Easy downloader, feito para download recursivo em um site específico que contém um número de medidas de segurança contra tal operação. Escrito em C++ com algumas partes em C. Atualmente privado.
-- Hypercube Simple Graphical Engine, uma simples engine gráfica feita em C++ usando SDL2. Capaz de simples manipulações gráficas 2D.
+- Hypercube Simple Graphical Engine, uma simples engine gráfica feita em C++ usando SDL2. Capaz de simples manipulações gráficas 2D. Tesseract é uma variação dessa engine especializada em programas estáticos
 - [Partiu UFVJM](https://partiuufvjm.teios.org/) (infelizmente o site não está mais disponível) um site feito como projeto em grupo para disciplina ADM I, com o objetivo de informar pessoas que queiram ingressar na UFVJM. Houve também um evento.
 
 ## O que estou fazendo agora e planos para o futuro
