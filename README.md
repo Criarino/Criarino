@@ -4,26 +4,18 @@
 
 ## Sobre mim
 
->"Você é muito teimoso! Uma das pessoas mais teimosas que eu conheço!"
+Formando de Sistemas de informação pela UFVJM. Usuário de linux. Fiz estágio de desenvolvimento APEX no Tribunal de Contas da União (TCU) por 1 ano.
 
---Minha professora de IA após eu marcar no mínimo 5 reuniões para falar sobre um trabalho
-
-Estudante de Sistemas de informação pela UFVJM. Usuário de linux. Pouca experiência profissional: Fiz estágio de desenvolvimento no Tribunal de Contas da União (TCU) por 1 ano, fora isso apenas alguns projetos pessoais e o fato de tudo que eu faço/tenho sempre dar problema - assim desenvolvi minha teimosia, para fazer as coisas funcionarem quer elas queiram ou não.
-
-Histórico de autodidata: aprendi inglês sozinho, estudando desde pequeno (comecei quando tinha por volta de 6 anos de idade), 70% do meu conhecimento de C++ aprendi apenas fazendo coisas que achava interessante e lendo documentação/Stack Overflow, também aprendi a jogar P.T.O. 2 sem ajuda aos 10 anos de idade :sunglasses:. Estou acostumado a encontrar problemas e resolvê-los sozinho, mesmo perdendo parte de minha sanidade no processo - God bless Google and Stack Overflow -, o que não significa que eu não saiba trabalhar em grupo. Todos que fizeram projetos e trabalhos da faculdade comigo podem atestar minhas incríveis habilidades de gerência :sunglasses:.
+Histórico de autodidata: aprendi inglês sozinho, estudando desde pequeno, 70% do meu conhecimento de programação aprendi apenas fazendo coisas que achava interessante e lendo documentação/Stack Overflow, também aprendi a jogar P.T.O. 2 sem ajuda aos 10 anos de idade :sunglasses:. Estou acostumado a encontrar problemas e resolvê-los sozinho, mesmo perdendo parte de minha sanidade no processo - God bless Google and Stack Overflow -, o que não significa que eu não saiba trabalhar em grupo. Todos que fizeram projetos e trabalhos da faculdade comigo podem atestar minhas incríveis habilidades de gerência.
 
 ## About me
 
->"You are too stubborn! One of the most stubborn people I know of!"
-
---My teacher after I bothered her about a certain assigment for days
-
-Almost finished with my degree in Computer Information Systems. Linux user. Little professional experience; only an one year internship at Federal Court of Accounts (TCU), other than that I have some small projects and the fact that everything I do always give me a lot more work than expected - that's how I got my stubborness.
+Bachelor in Computer Information Systems. Linux user. Little professional experience; only an one year internship at Federal Court of Accounts (TCU), other than that I have some small projects and the fact that everything I do always give me a lot more work than expected - that's how I got my stubborness.
 
 Self-taught: learned english by myself, most of my technical programming knowledge comes from doing things I liked and searching around the internet. I'm used to find and solve problems by myself - but can also work well in a team.
 
 ## Habilidades
-- C++ (sim, estou aprendendo a usar templates), Java, Javascript, HTML/CSS, um pouco de R, SQL e Phyton
+- C++ (sim, estou aprendendo a usar templates), Java, Javascript, HTML/CSS, SQL, Phyton, um pouco de R
 - Inglês: Pronúncia intermediária, Entendimento (audição) avançado, Leitura e Escrita perfeitas
 - Duas medalhas em concursos de piano (primeiro e segundo lugar) :sunglasses:
 
